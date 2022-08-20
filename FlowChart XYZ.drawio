@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T13:49:29.249Z" agent="5.0 (Windows)" etag="7NYALiwlFaHAhZrpEFRt" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T13:49:47.096Z" agent="5.0 (Windows)" etag="eSBJPdhfe4m05hGUucKG" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="FlowChart XYZ Digital Lending">
-    <mxGraphModel dx="2500" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5567" dy="3676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -184,7 +184,7 @@
           <mxGeometry x="-42.5" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-174" value="&lt;h1&gt;&lt;b&gt;FLOWCHART DIGITAL LENDING PT XYZ&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-520" y="-970" width="540" height="80" as="geometry" />
+          <mxGeometry x="-272.5" y="-950" width="540" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-175" value="Data Berhasil di Submit" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="-580" width="120" height="60" as="geometry" />
