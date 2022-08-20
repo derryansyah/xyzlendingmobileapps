@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2022-08-20T14:37:16.890Z" agent="5.0 (Windows)" etag="9InHFF2-weLtRg8LXkX5" version="20.2.3" type="github">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="1422" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-3" target="5Kia6QWm2IRBvUuD1m9E-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-3" value="Login Screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-4" target="5Kia6QWm2IRBvUuD1m9E-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-4" value="DashBoard" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="60" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-6" target="5Kia6QWm2IRBvUuD1m9E-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-6" target="5Kia6QWm2IRBvUuD1m9E-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-6" value="Halaman Informasi Pinjaman" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="60" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-8" value="Halaman Pembayaran Pinjaman" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="60" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-12" target="5Kia6QWm2IRBvUuD1m9E-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-12" value="Halaman Request Pinjaman" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="480" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-15" value="&lt;h1&gt;Screen Behaviour Digital Lending PT XYZ&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-10" width="500" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-16" target="5Kia6QWm2IRBvUuD1m9E-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Kia6QWm2IRBvUuD1m9E-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-16" value="Halaman Proses Pinjaman" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="480" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-18" value="Halaman Notifikasi Pinjaman Berhasil" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="480" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5Kia6QWm2IRBvUuD1m9E-22" value="Halaman Proses Pinjaman Gagal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="860" width="120" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
