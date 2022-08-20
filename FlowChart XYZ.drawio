@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T13:48:46.072Z" agent="5.0 (Windows)" etag="FxBY0MpTjShG5E1V0ntw" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T13:49:29.249Z" agent="5.0 (Windows)" etag="7NYALiwlFaHAhZrpEFRt" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="FlowChart XYZ Digital Lending">
     <mxGraphModel dx="2500" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-182" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-178" target="RgRpfeF5wvHuGxw3iGH3-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RgRpfeF5wvHuGxw3iGH3-178" value="OCR and Liveness sukses?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-178" value="OCR and LivenessDetection sukses?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-57.5" y="-485" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
