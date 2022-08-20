@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2022-08-20T12:45:16.078Z" agent="5.0 (Windows)" etag="pk5FKCbgdoBOAyUkNxYK" version="20.2.3" type="github">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="High Level Design XYZ">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Yd2DwDRtVUR8r6ksC_M-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="194" y="340" width="886" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="194" y="680" width="886" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-33" value="" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="390" y="840" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-35" value="XYZ Digital Lending Database" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="480" y="857.5" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Yd2DwDRtVUR8r6ksC_M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-40" target="dKdSaXE48SgPbhcamS2K-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-40" value="XYZ Digital Lending Application Server" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.service;fontSize=14;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="400" y="700" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Yd2DwDRtVUR8r6ksC_M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-53" target="dKdSaXE48SgPbhcamS2K-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-53" value="XYZ Digital Lending API" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="359.5" y="540" width="540" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="5Yd2DwDRtVUR8r6ksC_M-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-55" target="dKdSaXE48SgPbhcamS2K-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="XYZ Digital Lending Mobile Apps" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="555" y="400" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5Yd2DwDRtVUR8r6ksC_M-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="637" y="660" as="sourcePoint" />
+            <mxPoint x="637" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Yd2DwDRtVUR8r6ksC_M-9" value="HIGH :LEVEL DESIGN XYZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="545" y="345" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
