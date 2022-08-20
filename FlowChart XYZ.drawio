@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T13:35:32.770Z" agent="5.0 (Windows)" etag="bTMHkf9nfAYiTlaM9k98" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T13:48:46.072Z" agent="5.0 (Windows)" etag="FxBY0MpTjShG5E1V0ntw" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="FlowChart XYZ Digital Lending">
     <mxGraphModel dx="2500" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,17 +52,22 @@
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-5" value="input data diri, email, nomor telepon" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RgRpfeF5wvHuGxw3iGH3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-7" target="RgRpfeF5wvHuGxw3iGH3-9">
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-175" target="RgRpfeF5wvHuGxw3iGH3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="-430.47058823529414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-7" value="Upload Foto dan KTP" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-260" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-9" target="RgRpfeF5wvHuGxw3iGH3-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-9" value="Aktivasi akun" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-27" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-19" target="RgRpfeF5wvHuGxw3iGH3-26">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-19" value="Berhasil?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="-750" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="-750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-22" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +185,18 @@
         </mxCell>
         <mxCell id="RgRpfeF5wvHuGxw3iGH3-174" value="&lt;h1&gt;&lt;b&gt;FLOWCHART DIGITAL LENDING PT XYZ&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520" y="-970" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-175" value="Data Berhasil di Submit" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-179" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-178" target="RgRpfeF5wvHuGxw3iGH3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-182" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgRpfeF5wvHuGxw3iGH3-178" target="RgRpfeF5wvHuGxw3iGH3-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgRpfeF5wvHuGxw3iGH3-178" value="OCR and Liveness sukses?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-57.5" y="-485" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
